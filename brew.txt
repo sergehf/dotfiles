@@ -9,8 +9,6 @@ libyaml
 micro
 neon
 python
-rbenv
-ruby-build
 stow
 terminal-notifier
 tree
