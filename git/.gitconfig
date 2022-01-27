@@ -1,6 +1,6 @@
 [user]
-  name = Ara Abcarians
-  email = arala22@gmail.com
+  name = Sergeh Farhadnejad
+  email = sergehf@gmail.com
 
 [color]
     ui = auto
@@ -27,6 +27,6 @@
     editor = micro
 
 [github]
-    user = itsmeara
+    user = sergehf
 [http]
     postBuffer = 157286400
